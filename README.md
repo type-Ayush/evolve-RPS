@@ -1,10 +1,10 @@
 <p align="right">
-  <img src="C:\Users\Aayush\Pictures\s" alt="Logo" width="150"/>
+  <img src="https://res.cloudinary.com/dpqt4jkva/image/upload/cropped-Your_paragraph_text_1_hjr4hz" alt="Logo" width="150"/>
 </p>
 
 # Evolve-RPS
 ## About
-This repo is all about building <b>Rock-Paper-Scissors (RPS)</b> step by step — from beginner to advanced — slowly, steadily, and in every programming language we can. 🚀
+This repo is all about building <b>Rock-Paper-Scissors (RPS)</b> step by step — from beginner to advanced — slowly, steadily, and in every programming language we can. 
 <br>
 ## Description
 In this repository, we will develop Rock-Paper-Scissors (RPS) from the very basics to advanced implementations.
@@ -97,7 +97,8 @@ Our Current authors involved in this project
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="13" alt="Gmail"/> 
 </a>thekushagraverma@gmail.com</a></div><br>
 
+We invite you to become<b> part of our team</b>—share your skills and take the next step in joining us.
 
+## Updates
 
-
-
+Thats not it for this README. This is just a beginning. More features, opportunities will come in future. Stay Tuned. 
